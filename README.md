@@ -16,7 +16,7 @@
   <hr />
   
   <header style="text-align: center;">
-    <img class="profile" src="gambar/Yap.jpeg"/>
+    <img class="profile" src="Gambar/Yap.jpeg"/>
     <h1>Putu adicahya mahendra</h1>
     <p>(Murid)</p>
   </header>

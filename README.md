@@ -1,1 +1,12 @@
-
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirect</title>
+  <script>
+    window.location.replace("index.html");
+  </script>
+</head>
+<body>
+</body>
+</html>

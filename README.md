@@ -26,7 +26,7 @@
   <article style="text-align: center;">
     <h2>Overview</h2>
     <p>
-       Hi, saya adalah murid dari sekolah SMK BALIDEWATA saat ini saya sedang belajar HTML bersama teman teman saya. Saya memang masih baru dalam web development, karena itu saya 
+       Hi, saya adalah murid dari sekolah SMK BALIDEWATA saat ini saya sedang belajar HTML bersama teman teman saya. Saya memang masih baru dalam web development, karena itu saya akan serius belajar dengan giat.
     </p>
   </article>
   
